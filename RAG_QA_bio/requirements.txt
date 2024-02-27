@@ -1,0 +1,4 @@
+langchain
+unstructured
+opencv-python-headless
+sentence-transformers
